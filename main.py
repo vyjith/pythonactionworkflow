@@ -1,3 +1,9 @@
-# This program prints Hello, world!
+def hello():
+    print("hi")
 
-print('Hello, world!')
+
+def bye():
+    print("bye")
+
+
+print(hello())
